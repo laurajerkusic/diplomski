@@ -114,47 +114,35 @@ Open your browser at:
 ```
 
 http://localhost:4200
+
+
 4. Important: First Admin User Setup
-The first admin user must be added manually in the database.
-Use the following SQL query in your SQL Server Management Studio connected to the UsersDB database:
+The first admin user must be added manually using the API through Swagger.
+To do this:
 
-```
-INSERT INTO dbo.Users (Username, PasswordHash, Role)
-VALUES (
-  'admin',
-  'AQAAAAIAAYagAAAAEDmFPhDUiCzv5aV9ZzMAYInSgdM0hzwrTAkM3sA8RCHMoRtMHZTGLsA6lJ7G0GgPTw==',
-  'Admin'
-);
-```
+Run the IdentityMicroservice backend.
 
-The password for the admin user is: admin123
+Open Swagger UI, usually at:
 
-The password hash uses ASP.NET Core Identity hashing, so login will work correctly.
+http://localhost:5810/swagger/index.html
+Use the POST /api/Auth/register endpoint to create the first admin user.
 
-5. Login Credentials for Testing
-
-Username: admin  
-Password: admin123
-
-Angular Proxy Configuration
-proxy.conf.json should look like this:
+In the request body, provide JSON like this:
 
 ```
 {
-  "/api/auth": {
-    "target": "http://localhost:5810",
-    "secure": false
-  },
-  "/api/messages": {
-    "target": "http://localhost:5805",
-    "secure": false
-  },
-  "/api": {
-    "target": "http://localhost:5217",
-    "secure": false
-  }
+  "username": "admin",
+  "password": "admin123",
+  "role": "Admin"
 }
 ```
+
+Execute the request. If successful, the admin user will be created with the password admin123.
+
+Login Credentials for Testing
+
+Username: admin  
+Password: admin123
 
 Final Notes
 -----------------
