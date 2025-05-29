@@ -64,6 +64,18 @@ dotnet ef database update
 2. Running Backend Services
 Run backend services via Visual Studio or from the command line.
 
+If needed, build each backend project before running:
+```
+cd Phonebook.API
+dotnet build
+
+cd ../IdentityMicroservice
+dotnet build
+
+cd ../MessageMicroservice
+dotnet build
+```
+
 In Visual Studio
 Open the solution PhonebookProject.sln
 
