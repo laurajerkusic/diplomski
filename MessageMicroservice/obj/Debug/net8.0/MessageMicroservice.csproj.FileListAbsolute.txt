@@ -395,4 +395,5 @@ C:\Users\Laura\Desktop\DiplomskiRadProjekt\PhonebookProject\MessageMicroservice\
 C:\Users\Laura\Desktop\DiplomskiRadProjekt\PhonebookProject\MessageMicroservice\obj\Debug\net8.0\MessageMicroservice.pdb
 C:\Users\Laura\Desktop\DiplomskiRadProjekt\PhonebookProject\MessageMicroservice\obj\Debug\net8.0\MessageMicroservice.genruntimeconfig.cache
 C:\Users\Laura\Desktop\DiplomskiRadProjekt\PhonebookProject\MessageMicroservice\obj\Debug\net8.0\ref\MessageMicroservice.dll
+C:\Users\Laura\Desktop\DiplomskiRadProjekt\PhonebookProject\MessageMicroservice\obj\Debug\net8.0\MessageMicroservice.sourcelink.json
 C:\Users\Laura\Desktop\DiplomskiRadProjekt\PhonebookProject\MessageMicroservice\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

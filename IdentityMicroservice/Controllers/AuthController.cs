@@ -66,8 +66,9 @@ namespace IdentityMicroservice.Controllers
 			if (user == null)
 				return NotFound("User not found");
 
-			user.PasswordHash = model.NewPassword;
-			await _context.SaveChangesAsync();
+			//user.PasswordHash = model.NewPassword;
+            user.PasswordHash = new PasswordHasher<User>().HashPassword(null, model.NewPassword);
+            await _context.SaveChangesAsync();
 
 			return Ok(new { Message = "Password changed successfully" });
 		}

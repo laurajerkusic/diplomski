@@ -197,3 +197,4 @@ C:\Users\Laura\Desktop\DiplomskiRadProjekt\PhonebookProject\IdentityMicroservice
 C:\Users\Laura\Desktop\DiplomskiRadProjekt\PhonebookProject\IdentityMicroservice\obj\Debug\net8.0\IdentityMicroservice.pdb
 C:\Users\Laura\Desktop\DiplomskiRadProjekt\PhonebookProject\IdentityMicroservice\obj\Debug\net8.0\IdentityMicroservice.genruntimeconfig.cache
 C:\Users\Laura\Desktop\DiplomskiRadProjekt\PhonebookProject\IdentityMicroservice\obj\Debug\net8.0\ref\IdentityMicroservice.dll
+C:\Users\Laura\Desktop\DiplomskiRadProjekt\PhonebookProject\IdentityMicroservice\obj\Debug\net8.0\IdentityMicroservice.sourcelink.json
