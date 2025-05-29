@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "MessageController",
+    "Method": "GetMessages",
+    "RelativePath": "api/Message/messages/{contactId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contactId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MessageController",
+    "Method": "SendMessage",
+    "RelativePath": "api/Message/send",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "MessageMicroservice.Models.SendMessageModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

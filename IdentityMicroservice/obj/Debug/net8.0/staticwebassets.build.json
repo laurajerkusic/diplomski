@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "AIErOeUn7GvDhQnYnwVxiOIrRe/5/1M4uFIBV7WLisg=",
+  "Source": "IdentityMicroservice",
+  "BasePath": "_content/IdentityMicroservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

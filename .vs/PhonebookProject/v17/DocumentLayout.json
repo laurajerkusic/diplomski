@@ -1,0 +1,303 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Laura\\Desktop\\DiplomskiRadProjekt\\PhonebookProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22BCB9B8-D49E-4976-8C53-D1F498A7A02E}|IdentityMicroservice\\IdentityMicroservice.csproj|c:\\users\\laura\\desktop\\diplomskiradprojekt\\phonebookproject\\identitymicroservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22BCB9B8-D49E-4976-8C53-D1F498A7A02E}|IdentityMicroservice\\IdentityMicroservice.csproj|solutionrelative:identitymicroservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22BCB9B8-D49E-4976-8C53-D1F498A7A02E}|IdentityMicroservice\\IdentityMicroservice.csproj|c:\\users\\laura\\desktop\\diplomskiradprojekt\\phonebookproject\\identitymicroservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22BCB9B8-D49E-4976-8C53-D1F498A7A02E}|IdentityMicroservice\\IdentityMicroservice.csproj|solutionrelative:identitymicroservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22BCB9B8-D49E-4976-8C53-D1F498A7A02E}|IdentityMicroservice\\IdentityMicroservice.csproj|c:\\users\\laura\\desktop\\diplomskiradprojekt\\phonebookproject\\identitymicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22BCB9B8-D49E-4976-8C53-D1F498A7A02E}|IdentityMicroservice\\IdentityMicroservice.csproj|solutionrelative:identitymicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Laura\\Desktop\\DiplomskiRadProjekt\\PhonebookProject\\Phonebook.Client\\proxy.conf.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Phonebook.Client\\proxy.conf.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED2FA82-62E3-4C2A-A430-15B21524A21E}|Phonebook.API\\Phonebook.API.csproj|c:\\users\\laura\\desktop\\diplomskiradprojekt\\phonebookproject\\phonebook.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1ED2FA82-62E3-4C2A-A430-15B21524A21E}|Phonebook.API\\Phonebook.API.csproj|solutionrelative:phonebook.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117A3751-88DD-4D29-906F-AB0C6E3D6244}|MessageMicroservice\\MessageMicroservice.csproj|c:\\users\\laura\\desktop\\diplomskiradprojekt\\phonebookproject\\messagemicroservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{117A3751-88DD-4D29-906F-AB0C6E3D6244}|MessageMicroservice\\MessageMicroservice.csproj|solutionrelative:messagemicroservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22BCB9B8-D49E-4976-8C53-D1F498A7A02E}|IdentityMicroservice\\IdentityMicroservice.csproj|c:\\users\\laura\\desktop\\diplomskiradprojekt\\phonebookproject\\identitymicroservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22BCB9B8-D49E-4976-8C53-D1F498A7A02E}|IdentityMicroservice\\IdentityMicroservice.csproj|solutionrelative:identitymicroservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED2FA82-62E3-4C2A-A430-15B21524A21E}|Phonebook.API\\Phonebook.API.csproj|c:\\users\\laura\\desktop\\diplomskiradprojekt\\phonebookproject\\phonebook.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED2FA82-62E3-4C2A-A430-15B21524A21E}|Phonebook.API\\Phonebook.API.csproj|solutionrelative:phonebook.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED2FA82-62E3-4C2A-A430-15B21524A21E}|Phonebook.API\\Phonebook.API.csproj|c:\\users\\laura\\desktop\\diplomskiradprojekt\\phonebookproject\\phonebook.api\\phonebook.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1ED2FA82-62E3-4C2A-A430-15B21524A21E}|Phonebook.API\\Phonebook.API.csproj|solutionrelative:phonebook.api\\phonebook.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22BCB9B8-D49E-4976-8C53-D1F498A7A02E}|IdentityMicroservice\\IdentityMicroservice.csproj|c:\\users\\laura\\desktop\\diplomskiradprojekt\\phonebookproject\\identitymicroservice\\data\\identitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22BCB9B8-D49E-4976-8C53-D1F498A7A02E}|IdentityMicroservice\\IdentityMicroservice.csproj|solutionrelative:identitymicroservice\\data\\identitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22BCB9B8-D49E-4976-8C53-D1F498A7A02E}|IdentityMicroservice\\IdentityMicroservice.csproj|c:\\users\\laura\\desktop\\diplomskiradprojekt\\phonebookproject\\identitymicroservice\\identitymicroservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{22BCB9B8-D49E-4976-8C53-D1F498A7A02E}|IdentityMicroservice\\IdentityMicroservice.csproj|solutionrelative:identitymicroservice\\identitymicroservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED2FA82-62E3-4C2A-A430-15B21524A21E}|Phonebook.API\\Phonebook.API.csproj|c:\\users\\laura\\desktop\\diplomskiradprojekt\\phonebookproject\\phonebook.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1ED2FA82-62E3-4C2A-A430-15B21524A21E}|Phonebook.API\\Phonebook.API.csproj|solutionrelative:phonebook.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED2FA82-62E3-4C2A-A430-15B21524A21E}|Phonebook.API\\Phonebook.API.csproj|c:\\users\\laura\\desktop\\diplomskiradprojekt\\phonebookproject\\phonebook.api\\phonebook.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1ED2FA82-62E3-4C2A-A430-15B21524A21E}|Phonebook.API\\Phonebook.API.csproj|solutionrelative:phonebook.api\\phonebook.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117A3751-88DD-4D29-906F-AB0C6E3D6244}|MessageMicroservice\\MessageMicroservice.csproj|c:\\users\\laura\\desktop\\diplomskiradprojekt\\phonebookproject\\messagemicroservice\\messagemicroservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{117A3751-88DD-4D29-906F-AB0C6E3D6244}|MessageMicroservice\\MessageMicroservice.csproj|solutionrelative:messagemicroservice\\messagemicroservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED2FA82-62E3-4C2A-A430-15B21524A21E}|Phonebook.API\\Phonebook.API.csproj|c:\\users\\laura\\desktop\\diplomskiradprojekt\\phonebookproject\\phonebook.api\\controllers\\phonetypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED2FA82-62E3-4C2A-A430-15B21524A21E}|Phonebook.API\\Phonebook.API.csproj|solutionrelative:phonebook.api\\controllers\\phonetypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED2FA82-62E3-4C2A-A430-15B21524A21E}|Phonebook.API\\Phonebook.API.csproj|c:\\users\\laura\\desktop\\diplomskiradprojekt\\phonebookproject\\phonebook.api\\controllers\\phonenumberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED2FA82-62E3-4C2A-A430-15B21524A21E}|Phonebook.API\\Phonebook.API.csproj|solutionrelative:phonebook.api\\controllers\\phonenumberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED2FA82-62E3-4C2A-A430-15B21524A21E}|Phonebook.API\\Phonebook.API.csproj|c:\\users\\laura\\desktop\\diplomskiradprojekt\\phonebookproject\\phonebook.api\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED2FA82-62E3-4C2A-A430-15B21524A21E}|Phonebook.API\\Phonebook.API.csproj|solutionrelative:phonebook.api\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "proxy.conf.json",
+              "DocumentMoniker": "C:\\Users\\Laura\\Desktop\\DiplomskiRadProjekt\\PhonebookProject\\Phonebook.Client\\proxy.conf.json",
+              "RelativeDocumentMoniker": "Phonebook.Client\\proxy.conf.json",
+              "ToolTip": "C:\\Users\\Laura\\Desktop\\DiplomskiRadProjekt\\PhonebookProject\\Phonebook.Client\\proxy.conf.json",
+              "RelativeToolTip": "Phonebook.Client\\proxy.conf.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T12:09:02.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Laura\\Desktop\\DiplomskiRadProjekt\\PhonebookProject\\Phonebook.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Phonebook.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Laura\\Desktop\\DiplomskiRadProjekt\\PhonebookProject\\Phonebook.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Phonebook.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T12:08:17.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Laura\\Desktop\\DiplomskiRadProjekt\\PhonebookProject\\MessageMicroservice\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MessageMicroservice\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Laura\\Desktop\\DiplomskiRadProjekt\\PhonebookProject\\MessageMicroservice\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MessageMicroservice\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T12:08:06.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\Desktop\\DiplomskiRadProjekt\\PhonebookProject\\IdentityMicroservice\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "IdentityMicroservice\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Laura\\Desktop\\DiplomskiRadProjekt\\PhonebookProject\\IdentityMicroservice\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "IdentityMicroservice\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAYwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:02:27.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Laura\\Desktop\\DiplomskiRadProjekt\\PhonebookProject\\IdentityMicroservice\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "IdentityMicroservice\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Laura\\Desktop\\DiplomskiRadProjekt\\PhonebookProject\\IdentityMicroservice\\Properties\\launchSettings.json",
+              "RelativeToolTip": "IdentityMicroservice\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T11:51:26.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\Desktop\\DiplomskiRadProjekt\\PhonebookProject\\IdentityMicroservice\\Program.cs",
+              "RelativeDocumentMoniker": "IdentityMicroservice\\Program.cs",
+              "ToolTip": "C:\\Users\\Laura\\Desktop\\DiplomskiRadProjekt\\PhonebookProject\\IdentityMicroservice\\Program.cs",
+              "RelativeToolTip": "IdentityMicroservice\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T11:34:57.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IdentityDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\Desktop\\DiplomskiRadProjekt\\PhonebookProject\\IdentityMicroservice\\Data\\IdentityDbContext.cs",
+              "RelativeDocumentMoniker": "IdentityMicroservice\\Data\\IdentityDbContext.cs",
+              "ToolTip": "C:\\Users\\Laura\\Desktop\\DiplomskiRadProjekt\\PhonebookProject\\IdentityMicroservice\\Data\\IdentityDbContext.cs",
+              "RelativeToolTip": "IdentityMicroservice\\Data\\IdentityDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T11:25:20.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Laura\\Desktop\\DiplomskiRadProjekt\\PhonebookProject\\IdentityMicroservice\\appsettings.json",
+              "RelativeDocumentMoniker": "IdentityMicroservice\\appsettings.json",
+              "ToolTip": "C:\\Users\\Laura\\Desktop\\DiplomskiRadProjekt\\PhonebookProject\\IdentityMicroservice\\appsettings.json",
+              "RelativeToolTip": "IdentityMicroservice\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T11:21:41.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IdentityMicroservice.csproj",
+              "DocumentMoniker": "C:\\Users\\Laura\\Desktop\\DiplomskiRadProjekt\\PhonebookProject\\IdentityMicroservice\\IdentityMicroservice.csproj",
+              "RelativeDocumentMoniker": "IdentityMicroservice\\IdentityMicroservice.csproj",
+              "ToolTip": "C:\\Users\\Laura\\Desktop\\DiplomskiRadProjekt\\PhonebookProject\\IdentityMicroservice\\IdentityMicroservice.csproj",
+              "RelativeToolTip": "IdentityMicroservice\\IdentityMicroservice.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T11:21:38.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Laura\\Desktop\\DiplomskiRadProjekt\\PhonebookProject\\Phonebook.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Phonebook.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Laura\\Desktop\\DiplomskiRadProjekt\\PhonebookProject\\Phonebook.API\\appsettings.json",
+              "RelativeToolTip": "Phonebook.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T11:13:44.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Phonebook.API.http",
+              "DocumentMoniker": "C:\\Users\\Laura\\Desktop\\DiplomskiRadProjekt\\PhonebookProject\\Phonebook.API\\Phonebook.API.http",
+              "RelativeDocumentMoniker": "Phonebook.API\\Phonebook.API.http",
+              "ToolTip": "C:\\Users\\Laura\\Desktop\\DiplomskiRadProjekt\\PhonebookProject\\Phonebook.API\\Phonebook.API.http",
+              "RelativeToolTip": "Phonebook.API\\Phonebook.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-29T11:13:41.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\Desktop\\DiplomskiRadProjekt\\PhonebookProject\\Phonebook.API\\Program.cs",
+              "RelativeDocumentMoniker": "Phonebook.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Laura\\Desktop\\DiplomskiRadProjekt\\PhonebookProject\\Phonebook.API\\Program.cs",
+              "RelativeToolTip": "Phonebook.API\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAmwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T11:13:31.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Phonebook.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Laura\\Desktop\\DiplomskiRadProjekt\\PhonebookProject\\Phonebook.API\\Phonebook.API.csproj",
+              "RelativeDocumentMoniker": "Phonebook.API\\Phonebook.API.csproj",
+              "ToolTip": "C:\\Users\\Laura\\Desktop\\DiplomskiRadProjekt\\PhonebookProject\\Phonebook.API\\Phonebook.API.csproj",
+              "RelativeToolTip": "Phonebook.API\\Phonebook.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T11:13:00.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MessageMicroservice.csproj",
+              "DocumentMoniker": "C:\\Users\\Laura\\Desktop\\DiplomskiRadProjekt\\PhonebookProject\\MessageMicroservice\\MessageMicroservice.csproj",
+              "RelativeDocumentMoniker": "MessageMicroservice\\MessageMicroservice.csproj",
+              "ToolTip": "C:\\Users\\Laura\\Desktop\\DiplomskiRadProjekt\\PhonebookProject\\MessageMicroservice\\MessageMicroservice.csproj",
+              "RelativeToolTip": "MessageMicroservice\\MessageMicroservice.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T10:47:28.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PhoneTypesController.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\Desktop\\DiplomskiRadProjekt\\PhonebookProject\\Phonebook.API\\Controllers\\PhoneTypesController.cs",
+              "RelativeDocumentMoniker": "Phonebook.API\\Controllers\\PhoneTypesController.cs",
+              "ToolTip": "C:\\Users\\Laura\\Desktop\\DiplomskiRadProjekt\\PhonebookProject\\Phonebook.API\\Controllers\\PhoneTypesController.cs",
+              "RelativeToolTip": "Phonebook.API\\Controllers\\PhoneTypesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T21:42:04.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PhoneNumbersController.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\Desktop\\DiplomskiRadProjekt\\PhonebookProject\\Phonebook.API\\Controllers\\PhoneNumbersController.cs",
+              "RelativeDocumentMoniker": "Phonebook.API\\Controllers\\PhoneNumbersController.cs",
+              "ToolTip": "C:\\Users\\Laura\\Desktop\\DiplomskiRadProjekt\\PhonebookProject\\Phonebook.API\\Controllers\\PhoneNumbersController.cs",
+              "RelativeToolTip": "Phonebook.API\\Controllers\\PhoneNumbersController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T21:41:54.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\Desktop\\DiplomskiRadProjekt\\PhonebookProject\\Phonebook.API\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "Phonebook.API\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\Laura\\Desktop\\DiplomskiRadProjekt\\PhonebookProject\\Phonebook.API\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "Phonebook.API\\Controllers\\ContactsController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T21:41:45.621Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Standardni startup",
+    "Projects": [
+      {
+        "Path": "IdentityMicroservice\\IdentityMicroservice.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Phonebook.API\\Phonebook.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "MessageMicroservice\\MessageMicroservice.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

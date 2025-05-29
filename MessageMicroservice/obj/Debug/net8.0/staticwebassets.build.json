@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Gs8LkjcNULg4S3FypyVbHrmE/LNGx0lhhzTNM9iOvq8=",
+  "Source": "MessageMicroservice",
+  "BasePath": "_content/MessageMicroservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
